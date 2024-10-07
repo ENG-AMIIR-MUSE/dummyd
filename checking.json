@@ -9,14 +9,14 @@
   },
   {
     "name": "Fix login issue",
-    "status": "pending"
+    "status": "deposit"
   },
   {
     "name": "Prepare financial report",
-    "status": "completed"
+    "status": "send"
   },
   {
     "name": "Organize team meeting",
-    "status": "not started"
+    "status": "remit"
   }
 ]
