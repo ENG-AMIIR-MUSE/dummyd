@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "Complete project documentation",
+    "status": "completed"
+  },
+  {
+    "name": "Update website content",
+    "status": "in progress"
+  },
+  {
+    "name": "Fix login issue",
+    "status": "pending"
+  },
+  {
+    "name": "Prepare financial report",
+    "status": "completed"
+  },
+  {
+    "name": "Organize team meeting",
+    "status": "not started"
+  }
+]
